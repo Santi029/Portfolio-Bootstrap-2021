@@ -4,11 +4,14 @@ body {
 }
 
 .header {
-    background-color: rgb(41, 41, 41);
-    color: white;
+    background-color: rgb(255, 255, 255);
 }
 
 .nav-items {
     align-items: center;
     height: 80px;
+}
+
+.footer {
+    background-color: #414141;
 }
