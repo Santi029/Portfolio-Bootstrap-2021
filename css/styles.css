@@ -7,8 +7,9 @@ body {
     margin: 0px;
 }
 
-.header {
+header {
     background-color: rgb(49, 49, 49);
+    width: 80%;
 }
 
 .nav-items {
@@ -28,6 +29,22 @@ nav a {
     color: white;
 }
 
-.footer {
+#about {
+    width: 80%;
+}
+
+#projects {
+    width: 80%;
+}
+.resume {
+    width: 80%;
+}
+
+.contact {
+    width: 80%;
+}
+
+footer {
     background-color: #414141;
+    width: 80%;
 }
