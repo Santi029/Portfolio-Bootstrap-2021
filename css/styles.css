@@ -9,7 +9,6 @@ body {
 
 header {
     background-color: rgb(49, 49, 49);
-    width: 80%;
 }
 
 .nav-items {
@@ -29,22 +28,11 @@ nav a {
     color: white;
 }
 
-#about {
+.container {
     width: 80%;
-}
-
-#projects {
-    width: 80%;
-}
-.resume {
-    width: 80%;
-}
-
-.contact {
-    width: 80%;
+    margin: auto;
 }
 
 footer {
     background-color: #414141;
-    width: 80%;
 }
